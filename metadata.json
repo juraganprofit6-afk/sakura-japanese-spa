@@ -1,0 +1,6 @@
+{
+  "name": "Sakura Japanese Spa",
+  "description": "A luxury Zen-inspired Japanese spa in Amman offering authentic Hammam, therapeutic massages, and a serene reset for the body and mind.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
